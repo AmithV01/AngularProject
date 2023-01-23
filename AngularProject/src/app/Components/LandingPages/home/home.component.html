@@ -1,1 +1,26 @@
-<p>home works!</p>
+<div class="container-xxl bg-white p-0 main-style">
+
+  <!-- Navbar Start -->
+  <app-home-nav-bar></app-home-nav-bar>
+  <!-- Navbar End -->
+  <!-- Header Start -->
+  <div class="container-fluid header bg-white p-0">
+    <div class="row g-0 align-items-center flex-column-reverse flex-md-row">
+      <div class="col-md-6 p-5 mt-lg-5">
+        <h1 class="display-5 animated fadeIn mb-4">Find A <span class="text-primary">Perfect Hotel</span> To Live With Your Family</h1>
+        <p class="animated fadeIn mb-4 pb-2"> Simple Booking. Booking your hotel should be a simple process, be it over the phone, via an agent, or online</p>
+        <a routerLink="/hotel-list" class="btn btn-primary py-3 px-5 me-3 animated fadeIn">Book a Room</a>
+      </div>
+      <div class="col-md-6">
+        <owl-carousel-o [options]="customOptions">
+          <ng-container *ngFor="let slide of dynamicSlides">
+            <ng-template carouselSlide [id]="slide.id">
+              <img class="img-fluid" [src]="slide.src" [alt]="slide.alt" [title]="slide.title">
+            </ng-template>
+          </ng-container>
+        </owl-carousel-o>
+      </div>
+    </div>
+  </div>
+  <!-- Header End -->
+  </div>
