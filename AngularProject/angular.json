@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/CSS/CustMatUiTheme/custom-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
