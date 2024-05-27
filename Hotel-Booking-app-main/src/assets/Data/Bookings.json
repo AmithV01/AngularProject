@@ -1,0 +1,10 @@
+[
+  {
+    "BookingId": 1,
+    "UserId": 2,
+    "HotelId": 1,
+    "NumberOfRooms": 5,
+    "FromDate": "19-01-2023",
+    "ToDate": "24-01-2023"
+  }
+]

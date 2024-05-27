@@ -1,0 +1,58 @@
+[
+  {
+    "RoomId": 1,
+    "Type": "Dulexe",
+    "HotelId": 1,
+    "TotalRooms": 50,
+    "RoomsAvailable": 50,
+    "PricePerRoom": 900
+  },
+  {
+    "RoomId": 2,
+    "Type": "Executive",
+    "HotelId": 2,
+    "TotalRooms": 60,
+    "RoomsAvailable": 10,
+    "PricePerRoom": 1900
+  },
+  {
+    "RoomId": 1,
+    "Type": "Dulexe",
+    "HotelId": 3,
+    "TotalRooms": 50,
+    "RoomsAvailable": 50,
+    "PricePerRoom": 900
+  },
+  {
+    "RoomId": 1,
+    "Type": "Dulexe",
+    "HotelId": 4,
+    "TotalRooms": 50,
+    "RoomsAvailable": 50,
+    "PricePerRoom": 900
+  },
+  {
+    "RoomId": 1,
+    "Type": "Dulexe",
+    "HotelId": 5,
+    "TotalRooms": 50,
+    "RoomsAvailable": 0,
+    "PricePerRoom": 900
+  },
+  {
+    "RoomId": 1,
+    "Type": "Dulexe",
+    "HotelId": 6,
+    "TotalRooms": 50,
+    "RoomsAvailable": 50,
+    "PricePerRoom": 900
+  },
+  {
+    "RoomId": 1,
+    "Type": "Dulexe",
+    "HotelId": 7,
+    "TotalRooms": 50,
+    "RoomsAvailable": 50,
+    "PricePerRoom": 900
+  }
+]

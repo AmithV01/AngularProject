@@ -1,0 +1,13 @@
+a{
+  cursor: pointer;
+}
+
+.welcome{
+  background-color: white;
+  border-radius: 20px;
+  padding: 2rem 1.5rem;
+  border: 1px solid #ECEDF1;
+  justify-content: space-between;
+  gap: 3rem;
+
+}

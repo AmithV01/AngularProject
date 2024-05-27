@@ -1,0 +1,10 @@
+[
+  {
+    "LocationId": 1,
+    "LocationName": "Banglore"
+  },
+  {
+    "LocationId": 2,
+    "LocationName": "Delhi"
+  }
+]

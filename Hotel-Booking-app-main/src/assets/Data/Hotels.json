@@ -1,0 +1,51 @@
+[
+  {
+    "HotelId": 1,
+    "LocationId": 1,
+    "HotelName": "Hotel Anmol International",
+    "HotelAddress": "Outer Ring Road,Hebbal",
+    "HotelDescription": "Comfortable and Well Equipped Rooms"
+  },
+  {
+    "HotelId": 2,
+    "LocationId": 1,
+    "HotelName": "Hotel Green Embassy",
+    "HotelAddress": "BH Road Shivamogga ",
+    "HotelDescription": "Clean and Tidy Environment"
+  },
+  {
+    "HotelId": 3,
+    "LocationId": 1,
+    "HotelName": "Hotel Clarks View",
+    "HotelAddress": "Ashok road Sagar",
+    "HotelDescription": "Quality Customer Service"
+  },
+  {
+    "HotelId": 4,
+    "LocationId": 1,
+    "HotelName": "Hotel The Green Fern",
+    "HotelAddress": " 6th main 11th A cross road, Railway colony ",
+    "HotelDescription": "unique location"
+  },
+  {
+    "HotelId": 5,
+    "LocationId": 2,
+    "HotelName": "Hotel Social Adda ",
+    "HotelAddress": "9th c cross Nehru Nagar",
+    "HotelDescription": "Magnificent architecture"
+  },
+  {
+    "HotelId": 6,
+    "LocationId": 2,
+    "HotelName": "Hotel Titos ",
+    "HotelAddress": "2nd main 3cross jog road ",
+    "HotelDescription": "Striking decor"
+  },
+  {
+    "HotelId": 7,
+    "LocationId": 2,
+    "HotelName": "Hotel Lalit mahal",
+    "HotelAddress": "1st cross JC street",
+    "HotelDescription": "Relaxing"
+  }
+]
