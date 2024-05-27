@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\Components",
+    "\\src\\app\\Components\\LandingPages",
+    "\\src\\app\\Components\\LandingPages\\home",
+    "\\src\\app\\Components\\Navigation",
+    "\\src\\app\\Components\\Navigation\\home-nav-bar",
+    "\\src\\assets",
+    "\\src\\assets\\CSS",
+    "\\src\\assets\\CSS\\TemplateTheme"
+  ],
+  "SelectedNode": "\\src\\app\\Helpers\\CarouselOptions.ts",
+  "PreviewInSolutionExplorer": false
+}
